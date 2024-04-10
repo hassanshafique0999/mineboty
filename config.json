@@ -1,8 +1,12 @@
 {
- "username": "mineboty",
- "ip": "in-1.rudracloud.com",
- "port": "1510",
- "password": "",
- "loginmsg": "kartik",
- "_comment": "Loginmsg is used to make login the bot"
+  "ip": "gn1.slicehosting.tech",
+  "port": "26503",
+  "password": "haroon010",
+  "prefix": "Haroon89",
+  "login-enabled": "true",
+  "register-cmd": "/register haroon010",
+  "login-cmd": "/login haroon010",
+  "loginmsg": "done",
+  "web": "true"
+
 }
